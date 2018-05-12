@@ -1,10 +1,16 @@
 _repo: The-Slavery-Question_47050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lawrence, John
     gutenberg_agent_id: '44109'
     url: http://www.gutenberg.org/2009/agents/44109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47050#The-Slavery-Question
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
